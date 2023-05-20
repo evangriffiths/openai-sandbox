@@ -2,6 +2,7 @@
 
 A repo for examples of and utils for using the `openai` python library.
 
+Lessons from https://learn.deeplearning.ai/chatgpt-prompt-eng/
 ## Setup
 
 Create virtual env and install requirements:
